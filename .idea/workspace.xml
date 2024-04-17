@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="504edc0a-0a64-4d6f-9f1e-cf5e82bcd5d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Ex001.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Ex001.executor": "Run",
     "Application.Lab001.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -40,7 +42,14 @@
     "onboarding.tips.debug.path": "C:/jdk-21.0.2/JavaProjects/ATB6xJavaProgram2/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Ex001">
+    <configuration name="Ex001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex001" />
+      <module name="ATB6xJavaProgram2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex001.Lab001" />
       <module name="ATB6xJavaProgram2" />
@@ -56,6 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex001" />
         <item itemvalue="Application.Lab001" />
       </list>
     </recent_temporary>
